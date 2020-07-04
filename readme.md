@@ -1,1 +1,1 @@
- The way to preview HTML files on GitHub is to go to https://htmlpreview.github.io/ or just prepend it to the original URL, i.e.: https://htmlpreview.github.io/?https://github.com/vodolazz75/ya.praktikum/blob/master/proekt3_html.html  
+ The way to preview HTML files on GitHub is to go to https://htmlpreview.github.io/ or just prepend it to the original URL, i.e.: https://htmlpreview.github.io/?https://github.com/vodolazz75/ya.praktikum/blob/master/3proekt/proekt3_html.html
