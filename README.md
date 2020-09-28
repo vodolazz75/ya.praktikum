@@ -82,20 +82,20 @@
     - визуализация данных   
     
  10. Dashboard for the news aggregator. Создание дашборда по пользовательским событиям для агрегатора новостей       
-   - Python   
-   - SQLAlchemy   
-   - PostgreSQL   
-   - dash   
-   - Tableau   
-   - продуктовые метрики   
-   - построение дашбордов   
+     - Python   
+     - SQLAlchemy   
+     - PostgreSQL   
+     - dash   
+     - Tableau   
+     - продуктовые метрики   
+     - построение дашбордов   
     
  11. User churn forecast. Прогнозирование вероятности оттока пользователей для фитнес-центров
-    - Python   
-    - Pandas   
-    - Scikit-learn   
-    - Matplotlib   
-    - Seaborn   
-    - машинное обучение   
-    - классификация   
-    - кластеризация   
+     - Python   
+     - Pandas   
+     - Scikit-learn   
+     - Matplotlib   
+     - Seaborn   
+     - машинное обучение   
+     - классификация   
+     - кластеризация   
