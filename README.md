@@ -82,7 +82,7 @@
     - визуализация данных   
     
  10. Dashboard for the news aggregator. Создание дашборда по пользовательским событиям для агрегатора новостей     
- Посмотреть дашборд можно по ссылке: https://public.tableau.com/profile/oxana.vodolazskaya#!/vizhome/ItemvisitsinYandex_Zen/_?publish=yes   
+ Ссылка на дашборд: https://public.tableau.com/profile/oxana.vodolazskaya#!/vizhome/ItemvisitsinYandex_Zen/_?publish=yes   
      - Python   
      - SQLAlchemy   
      - PostgreSQL   
